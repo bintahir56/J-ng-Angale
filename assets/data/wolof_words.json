@@ -1,0 +1,142 @@
+[
+  {
+    "wolof": "Bëgg",
+    "english": "want",
+    "category": "Verbs",
+    "example": "Maa bëgg një mburu.",
+    "note": "Use this to express desire or preference."
+  },
+  {
+    "wolof": "Jàmm",
+    "english": "peace",
+    "category": "Common",
+    "example": "Jàmm ak yàlla.",
+    "note": "A useful greeting and blessing word."
+  },
+  {
+    "wolof": "Néew",
+    "english": "little / few",
+    "category": "Adjectives",
+    "example": "Am na néew xaalis.",
+    "note": "Use it when talking about a small amount."
+  },
+  {
+    "wolof": "Ndox",
+    "english": "water",
+    "category": "Daily life",
+    "example": "Jox ma ndox.",
+    "note": "Essential word for daily communication."
+  },
+  {
+    "wolof": "Biir",
+    "english": "inside",
+    "category": "Places",
+    "example": "Maa ngi biir kër.",
+    "note": "Useful for describing location."
+  },
+  {
+    "wolof": "Kër",
+    "english": "house",
+    "category": "Places",
+    "example": "Sama kër am na ñu.",
+    "note": "A core family and home word."
+  },
+  {
+    "wolof": "Am",
+    "english": "have / there is",
+    "category": "Verbs",
+    "example": "Am na ma një xarit.",
+    "note": "One of the most useful verbs."
+  },
+  {
+    "wolof": "Xarit",
+    "english": "friend",
+    "category": "People",
+    "example": "Sama xarit aaya.",
+    "note": "For everyday social situations."
+  },
+  {
+    "wolof": "Dóor",
+    "english": "to open / open",
+    "category": "Verbs",
+    "example": "Dóor la buntu.",
+    "note": "Useful at home and school."
+  },
+  {
+    "wolof": "Gërëm",
+    "english": "thanks",
+    "category": "Common",
+    "example": "Gërëm ci sa ndimbal.",
+    "note": "Very important polite expression."
+  },
+  {
+    "wolof": "Tóx",
+    "english": "book",
+    "category": "School",
+    "example": "Ma laaj lépp ci sama tóx.",
+    "note": "Useful for school and reading."
+  },
+  {
+    "wolof": "Mbooloom",
+    "english": "school",
+    "category": "School",
+    "example": "Maa dem ci mbbooloom.",
+    "note": "School is a key word in learning."
+  },
+  {
+    "wolof": "Léegi",
+    "english": "now",
+    "category": "Time",
+    "example": "Léegi daañu dem.",
+    "note": "Very common in daily sentences."
+  },
+  {
+    "wolof": "Suba",
+    "english": "morning",
+    "category": "Time",
+    "example": "Suba laa fey.",
+    "note": "Useful for greetings and planning."
+  },
+  {
+    "wolof": "Duuf",
+    "english": "food",
+    "category": "Daily life",
+    "example": "Maa bëgg duuf jàmbur.",
+    "note": "Useful when talking about meals."
+  },
+  {
+    "wolof": "Baat",
+    "english": "word / speech",
+    "category": "Language",
+    "example": "Baat yii am nañu yàqu.",
+    "note": "Useful in language learning."
+  },
+  {
+    "wolof": "Angale",
+    "english": "English",
+    "category": "Language",
+    "example": "Maa ngi jàng Angale.",
+    "note": "The app focuses on this language."
+  },
+  {
+    "wolof": "Jàng",
+    "english": "learn / study",
+    "category": "Verbs",
+    "example": "Naa jàng ci bopp.",
+    "note": "Core word for education and growth."
+  },
+  {
+    "wolof": "Waaw",
+    "english": "yes",
+    "category": "Common",
+    "example": "Waaw, maa ngi ñu.",
+    "note": "Basic answer word."
+  },
+  {
+    "wolof": "Déet",
+    "english": "no",
+    "category": "Common",
+    "example": "Déet, ma bëggul.",
+    "note": "Basic negative answer word."
+  }
+]
