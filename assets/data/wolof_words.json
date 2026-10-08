@@ -57,7 +57,7 @@
   },
   {
     "wolof": "Dóor",
-    "english": "to open / open",
+    "english": "open",
     "category": "Verbs",
     "example": "Dóor la buntu.",
     "note": "Useful at home and school."
@@ -129,7 +129,7 @@
     "wolof": "Waaw",
     "english": "yes",
     "category": "Common",
-    "example": "Waaw, maa ngi ñu.",
+    "example": "Waaw, maa ngi fi.",
     "note": "Basic answer word."
   },
   {
@@ -138,5 +138,222 @@
     "category": "Common",
     "example": "Déet, ma bëggul.",
     "note": "Basic negative answer word."
+  },
+  {
+    "wolof": "Bopp",
+    "english": "self / myself",
+    "category": "People",
+    "example": "Maa jàng ci bopp.",
+    "note": "Used when talking about personal action."
+  },
+  {
+    "wolof": "Njar" ,
+    "english": "teacher",
+    "category": "People",
+    "example": "Sama njar a ngi fi.",
+    "note": "Used for a school or learning guide."
+  },
+  {
+    "wolof": "Baay",
+    "english": "father",
+    "category": "Family",
+    "example": "Sama baay moo ma daldi yónni.",
+    "note": "Essential family word."
+  },
+  {
+    "wolof": "Yaay",
+    "english": "mother",
+    "category": "Family",
+    "example": "Yaay, jox ma ndox.",
+    "note": "Very common family word."
+  },
+  {
+    "wolof": "Doom",
+    "english": "child",
+    "category": "Family",
+    "example": "Doom yi ngi ñaaw.",
+    "note": "Useful when talking about children."
+  },
+  {
+    "wolof": "Famille",
+    "english": "family",
+    "category": "Family",
+    "example": "Sama famille dafa gudd.",
+    "note": "Useful for personal life conversations."
+  },
+  {
+    "wolof": "Nopp",
+    "english": "ear",
+    "category": "Body",
+    "example": "Nopp bi laa nag.",
+    "note": "Basic body part word."
+  },
+  {
+    "wolof": "Bët",
+    "english": "eye",
+    "category": "Body",
+    "example": "Bët bi a ngi leer.",
+    "note": "Basic body part word."
+  },
+  {
+    "wolof": "Loxo",
+    "english": "hand",
+    "category": "Body",
+    "example": "Jox ma loxo.",
+    "note": "Very useful everyday word."
+  },
+  {
+    "wolof": "Yaram",
+    "english": "body",
+    "category": "Body",
+    "example": "Yaram bi a ngi fi.",
+    "note": "Useful for health and body talk."
+  },
+  {
+    "wolof": "Nàkk",
+    "english": "sleep",
+    "category": "Daily life",
+    "example": "Maa ngi nàkk bés.",
+    "note": "Essential for daily life and health."
+  },
+  {
+    "wolof": "Màgg",
+    "english": "big / large",
+    "category": "Adjectives",
+    "example": "Kër bi màgg na.",
+    "note": "Useful for describing size."
+  },
+  {
+    "wolof": "Tuuti",
+    "english": "small / little",
+    "category": "Adjectives",
+    "example": "Doom bi tuuti na.",
+    "note": "A common adjective."
+  },
+  {
+    "wolof": "Jóo",
+    "english": "to go",
+    "category": "Verbs",
+    "example": "Maa jóge ci kër.",
+    "note": "Very important action verb."
+  },
+  {
+    "wolof": "Dëkk",
+    "english": "town / village",
+    "category": "Places",
+    "example": "Sama dëkk a ngi naaj.",
+    "note": "Useful for place descriptions."
+  },
+  {
+    "wolof": "Mangi",
+    "english": "I am / I am here",
+    "category": "Common",
+    "example": "Mangi fi.",
+    "note": "Useful phrase for presence."
+  },
+  {
+    "wolof": "Baal",
+    "english": "forgive / leave",
+    "category": "Common",
+    "example": "Baal ma.",
+    "note": "Helpful in polite conversation."
+  },
+  {
+    "wolof": "Yoon",
+    "english": "way / road",
+    "category": "Places",
+    "example": "Yoon wi mooy ci kanam.",
+    "note": "Useful for directions."
+  },
+  {
+    "wolof": "Saa",
+    "english": "time / hour",
+    "category": "Time",
+    "example": "Saa yu bari.",
+    "note": "Useful for discussing time."
+  },
+  {
+    "wolof": "Sàkk",
+    "english": "to buy",
+    "category": "Verbs",
+    "example": "Maa sàkk mburu.",
+    "note": "Useful in daily market situations."
+  },
+  {
+    "wolof": "Jéem",
+    "english": "try",
+    "category": "Verbs",
+    "example": "Maa jëem jàng.",
+    "note": "Useful in learning and effort."
+  },
+  {
+    "wolof": "Jëf",
+    "english": "work / action",
+    "category": "Daily life",
+    "example": "Sama jëf dafa mel ni.",
+    "note": "Useful in work and activity talk."
+  },
+  {
+    "wolof": "Sopp",
+    "english": "love / like",
+    "category": "Verbs",
+    "example": "Maa sopp jàng.",
+    "note": "Used for affection and preference."
+  },
+  {
+    "wolof": "Jabar",
+    "english": "wife",
+    "category": "Family",
+    "example": "Sama jabar a ngi fi.",
+    "note": "Useful family vocabulary."
+  },
+  {
+    "wolof": "Goro",
+    "english": "friend / companion",
+    "category": "People",
+    "example": "Goro bi dafa jaxas.",
+    "note": "A friendly social word."
+  },
+  {
+    "wolof": "Bés",
+    "english": "day",
+    "category": "Time",
+    "example": "Bés bu neex.",
+    "note": "Useful for describing time."
+  },
+  {
+    "wolof": "Lii",
+    "english": "this",
+    "category": "Common",
+    "example": "Lii mooy sama borom.",
+    "note": "Useful in pointing things out."
+  },
+  {
+    "wolof": "Lool",
+    "english": "very / much",
+    "category": "Common",
+    "example": "Maa bëgg lool.",
+    "note": "Useful for emphasis."
+  },
+  {
+    "wolof": "Def",
+    "english": "do / make",
+    "category": "Verbs",
+    "example": "Maa def liggéey.",
+    "note": "One of the key action verbs."
+  },
+  {
+    "wolof": "Mari",
+    "english": "money",
+    "category": "Daily life",
+    "example": "Maa am mari.",
+    "note": "Important everyday word."
+  },
+  {
+    "wolof": "Buur",
+    "english": "king",
+    "category": "Common",
+    "example": "Buur bi dafa maas.",
+    "note": "Useful in cultural and historical context."
   }
 ]
